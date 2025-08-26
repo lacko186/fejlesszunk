@@ -78,37 +78,37 @@ window.onload = function(){
     'id':1,
     'name': 'JavaScript',
     'description': 'A Javascript az egyik kedvencem, rengeteg kreatív ötletet tudtam már vele megvalósítani',
-    'github': 'https://github.com/carshop'
+    'github': 'https://github.com/lacko186/carshop'
     },
         {
     'id':2,
     'name': 'PHP',
     'description': 'PHP segítségével láttam bele a szerveroldal működésébe, remek keretrendszerek és a szerverkapcsolatok létrehozására',
-    'github': 'https://github.com/Kapostransit_vizsgaremek'
+    'github': 'https://github.com/lacko186/Kapostransit_vizsgaremek'
     },
         {
     'id':3,
     'name': 'C++',
     'description': 'a C++ egy kihívás volt számomra, egy erősen típusos nyelv ami ténylegesen megtanít',
-    'github': 'https://github.com/alapok'
+    'github': 'https://github.com/lacko186/alapok'
     },
         {
     'id':4,
     'name': 'C#',
     'description': 'A C#-al a kreativitás határtalan, az asztali alkalmazásokon keresztül, játékokon át mindenre tökéletes',
-    'github': 'https://github.com/asztali_gyakorlo'
+    'github': 'https://github.com/lacko186/asztali_gyakorlo'
     },
         {
     'id':5,
     'name': 'Python',
     'description': 'A python egyszerűségében rejlik a bonyolultsága, a modern machine learning alapja',
-    'github': 'https://github.com/python_alapok'
+    'github': 'https://github.com/lacko186/python_alapok'
     },
     {
     'id':6,
     'name': 'Android',
     'description': 'A Kotlinnal rengeteg Androidos kreatív alkalmazás készült, hátránya az erősforrásigény',
-    'github': 'https://github.com/Android'
+    'github': 'https://github.com/lacko186/Android'
     }
 ]
 
