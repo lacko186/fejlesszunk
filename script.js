@@ -84,7 +84,7 @@ window.onload = function(){
     'id':2,
     'name': 'PHP',
     'description': 'PHP segítségével láttam bele a szerveroldal működésébe, remek keretrendszerek és a szerverkapcsolatok létrehozására',
-    'github': 'https://github.com/lacko186/KaposTransit_vizsgaremek'
+    'github': 'https://github.com/lacko186/KaposTransit-vizsgaremek'
     },
         {
     'id':3,
@@ -96,7 +96,7 @@ window.onload = function(){
     'id':4,
     'name': 'C#',
     'description': 'A C#-al a kreativitás határtalan, az asztali alkalmazásokon keresztül, játékokon át mindenre tökéletes',
-    'github': 'https://github.com/lacko186/asztali_gyakorlo'
+    'github': 'https://github.com/lacko186/asztali-gyakorlo'
     },
         {
     'id':5,
