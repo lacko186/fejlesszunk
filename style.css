@@ -147,7 +147,7 @@ body {
 }
 
 #tapasztalat:hover{
-    rotate: -20deg;
+    rotate: 360deg;
     transition-duration: 1s;
     box-shadow: 10px 10px 10px #000;
     animation: pulse 1s infinite;
