@@ -132,7 +132,7 @@ const tapasztalatok = [{
 'date': '2023.03-2023.06',
 'position': 'Gyakornok',
 'company': 'Alfabox Kft',
-'description': 'Webfejlesztő gyakornokként dolgoztam, ahol HTML, CSS, JavaScript és PHP nyelveken fejlesztettem weboldalakat és alkalmazásokat. Részt vettem a front-end és back-end fejlesztési folyamatokban, valamint adatbázis-kezelési feladatokban is.'
+'description': 'Webfejlesztő gyakornokként dolgoztam, ahol HTML, CSS, JavaScript és PHP nyelveken fejlesztettem weboldalakat és alkalmazásokat. Részt vettem a front-end és back-end fejlesztési folyamatokban, valamint adatbázis-kezelési feladatokban is. '
 
 },
 {
