@@ -84,7 +84,7 @@ window.onload = function(){
     'id':2,
     'name': 'PHP',
     'description': 'PHP segítségével láttam bele a szerveroldal működésébe, remek keretrendszerek és a szerverkapcsolatok létrehozására',
-    'github': 'https://github.com/lacko186/Kapostransit_vizsgaremek'
+    'github': 'https://github.com/lacko186/KaposTransit_vizsgaremek'
     },
         {
     'id':3,
