@@ -77,7 +77,7 @@ window.onload = function(){
     {
     'id':1,
     'name': 'JavaScript',
-    'description': 'A Javascript az egyik kedvencem, rengeteg kreatív ötletet tudtam más vele megvalósítani',
+    'description': 'A Javascript az egyik kedvencem, rengeteg kreatív ötletet tudtam már vele megvalósítani',
     'github': 'https://github.com/carshop'
     },
         {
@@ -89,7 +89,7 @@ window.onload = function(){
         {
     'id':3,
     'name': 'C++',
-    'description': 'a C++ egy kihívás volt számomra, egy típusos nyelv ami ténylegesen megtanít',
+    'description': 'a C++ egy kihívás volt számomra, egy erősen típusos nyelv ami ténylegesen megtanít',
     'github': 'https://github.com/alapok'
     },
         {
